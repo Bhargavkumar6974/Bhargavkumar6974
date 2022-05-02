@@ -16,8 +16,10 @@ public class PrivateAM extends xyz
 	{
 	 
 		xyz a= new xyz();
-		System.out.println(a.p); //compile TE
+	/*	System.out.println(a.p); //compile TE
 		System.out.println(a.q); //compile TE
 		a.display();
-	}
+
+	*/
+		}
     }
